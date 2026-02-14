@@ -6,3 +6,8 @@ class Solution:
             width=right-left
             c_length=min(height[left],height[right])
             max_=max(max_,width*c_length)
+            if height[left]<height[right]:
+                left+=1
+            else:
+                right-=1
+        return max_
