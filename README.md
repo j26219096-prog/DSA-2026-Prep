@@ -1,58 +1,55 @@
-# DSA 2026 – Structured Technical Preparation 🚀
+# Data Engineering Preparation – 2026 🚀
 
 This repository documents my structured preparation for 
-2026 Software Engineering / Data Engineering internships.
+Data Engineering internship opportunities (2026).
 
-The goal of this repository is to strengthen core problem-solving skills,
-improve coding clarity, and build strong SQL fundamentals required for 
-technical interviews.
+The objective is to build strong foundations in problem-solving,
+SQL querying, and data manipulation concepts required for
+data-driven systems.
 
 ---
 
-## 📌 Languages & Tools
+## 📌 Core Skills
+
 - Python (Data Structures & Algorithms)
-- SQL (Query writing and data manipulation)
+- SQL (Data querying and transformation)
+- Problem-solving with time & space complexity analysis
 
 ---
 
-## 🧠 Core Topics Covered
+## 🧠 Technical Focus Areas
 
 ### Data Structures & Algorithms
 - Arrays & Strings
-- Two Pointer Technique
+- Two Pointer Techniques
 - Hashing
 - Stack & Queue
 - Linked Lists
-- Recursion & Backtracking
 - Sorting & Searching
-- Basic Dynamic Programming
 
-### SQL Concepts
-- SELECT, WHERE, ORDER BY
-- INNER JOIN / LEFT JOIN
+### SQL & Data Concepts
+- JOIN operations (INNER, LEFT)
 - GROUP BY & HAVING
-- Aggregate Functions
 - Subqueries
-- Filtering with NULL
-- Basic Ranking Problems
+- Aggregate Functions
+- Filtering & NULL handling
+- Basic Ranking Queries
 
 ---
 
-## ⚙️ Approach
+## ⚙️ Learning Approach
 
-- Pattern-based problem solving
-- Writing clean and readable code
-- Analyzing Time & Space Complexity
-- Consistent daily practice
-- Structured folder organization by topic
+- Pattern-based DSA practice
+- Writing optimized SQL queries
+- Clean and readable code
+- Consistent daily improvement
 
 ---
 
-## 🎯 Objective
+## 🌏 Long-Term Objective
 
-To build strong technical foundations and prepare for global
-software engineering opportunities by focusing on clarity,
-consistency, and disciplined learning.
+To prepare for global Data Engineering opportunities in 
+international, English-based technology environments.
 
 ---
 
