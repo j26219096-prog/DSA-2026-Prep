@@ -1,59 +1,59 @@
-# 🚀 DSA-2026-Prep
+# DSA 2026 – Structured Technical Preparation 🚀
 
-This repository contains my Data Structures and Algorithms practice solutions.
+This repository documents my structured preparation for 
+2026 Software Engineering / Data Engineering internships.
 
-I am solving problems consistently to improve my problem-solving skills and prepare for software engineering internships.
+The goal of this repository is to strengthen core problem-solving skills,
+improve coding clarity, and build strong SQL fundamentals required for 
+technical interviews.
 
 ---
 
-## 🐍 Python Solutions
+## 📌 Languages & Tools
+- Python (Data Structures & Algorithms)
+- SQL (Query writing and data manipulation)
 
-All Data Structures and Algorithm problems solved using Python.
+---
 
-Topics covered:
-- Arrays
-- Strings
-- Linked List
-- Recursion
-- Sorting
-- Searching
-- Binary Search
+## 🧠 Core Topics Covered
+
+### Data Structures & Algorithms
+- Arrays & Strings
+- Two Pointer Technique
+- Hashing
 - Stack & Queue
-- More coming soon...
+- Linked Lists
+- Recursion & Backtracking
+- Sorting & Searching
+- Basic Dynamic Programming
 
-📂 Folder: `/python`
-
----
-
-## 🛢 SQL Solutions
-
-SQL practice problems and query-based challenges.
-
-Topics covered:
-- SELECT Queries
-- JOIN
-- GROUP BY
+### SQL Concepts
+- SELECT, WHERE, ORDER BY
+- INNER JOIN / LEFT JOIN
+- GROUP BY & HAVING
+- Aggregate Functions
 - Subqueries
-- Aggregations
-- Filtering
-- Database logic problems
-
-📂 Folder: `/Sql`
+- Filtering with NULL
+- Basic Ranking Problems
 
 ---
 
-## 📈 Progress
+## ⚙️ Approach
 
-- Consistent daily problem solving
-- Focused on improving logical thinking
-- Preparing for technical interviews
-
----
-
-## 🎯 Goal
-
-To become a strong problem solver and secure a software engineering internship.
+- Pattern-based problem solving
+- Writing clean and readable code
+- Analyzing Time & Space Complexity
+- Consistent daily practice
+- Structured folder organization by topic
 
 ---
 
-⭐ If you find this repository useful, feel free to star it!
+## 🎯 Objective
+
+To build strong technical foundations and prepare for global
+software engineering opportunities by focusing on clarity,
+consistency, and disciplined learning.
+
+---
+
+*This repository is actively maintained as part of my 2026 internship preparation journey.*
