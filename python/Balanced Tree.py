@@ -7,7 +7,7 @@ class Solution:
             if left_h==-1: return -1
             right_h=height(node.right)
             if right_h ==-1:return -1
-            if (left_h-right_h)>1:
+            if abs(left_h-right_h)>1:
                 return -1
             return max(left_h,right_h)+1
         return height(root)!=-1
